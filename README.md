@@ -4,16 +4,20 @@ A collection of real-world Kubernetes production issues, troubleshooting command
 
 ---
 
-## Topics Covered
+## Real-World Issues Covered
 
-- CrashLoopBackOff
-- PVC Pending
-- Node Not Ready
-- Ingress Issues
-- ImagePullBackOff
-- ContainerCreating
-- Resource Limits
-- FluxCD Troubleshooting
+| Issue | Status |
+|---------|---------|
+| CrashLoopBackOff | ✅ |
+| PVC Pending | ✅ |
+| Node Not Ready | ✅ |
+| Ingress Issues | ✅ |
+| ImagePullBackOff | ✅ |
+| ContainerCreating | ✅ |
+| Resource Limits | ✅ |
+| FluxCD Issues | ✅ |
+| PostgreSQL Restore Issues | 🚧 |
+| High Memory Utilization | 🚧 |
 
 ---
 
